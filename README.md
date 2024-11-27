@@ -1,5 +1,5 @@
 
-#Liquid CSS Effects - README#
+##Liquid CSS Effects - README##
 This project demonstrates a simple web page with interactive draggable circles and a liquid-like visual effect applied using SVG filters. The code combines HTML, CSS, and JavaScript (jQuery and jQuery UI) to create a visually appealing, interactive design.
 
 Features
